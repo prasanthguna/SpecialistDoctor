@@ -1,0 +1,9 @@
+!define TEST_SYSTEM {slim}
+!path FitNesseRoot/FrontPage/SpecialistDoctor
+
+!|SpecialistDoctor|
+|decease|getDoctor?|
+|Heart|Vel|
+|ENT|20|
+|Kidney|30|
+|Liver|40|
